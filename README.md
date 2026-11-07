@@ -278,7 +278,6 @@ applications.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Turning customer data into clearer retention priorities and measurable
 growth opportunities.**
-:::
+
