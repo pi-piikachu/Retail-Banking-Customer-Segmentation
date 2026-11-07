@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Retail Banking Customer Segmentation & Executive Insights
 
 **A data-driven portfolio analysis to understand customer value,
